@@ -6,3 +6,5 @@
 ### 필요한거? event camera dataset, calibration file, rgb image, depth map, 
 ### image를 event dataset으로 바꾸는 작업이 있을까
 ### https://dsec.ifi.uzh.ch/dsec-datasets/download/ 여기서 데이터셋 이용하고, disparity 뽑는 알고리즘으로 disparity 뽑아보자, pseudo lidar training을 한번 더 시켜야 하는것인가????????????????????????이건 나중에!
+### Stereo Event Camera를 이용해서 depth를 뽑고, 이 depth와 calibration 파일을 이용해서 pseudo lidar 구현 한 후 3d object detection을 하는 것 
+### 
